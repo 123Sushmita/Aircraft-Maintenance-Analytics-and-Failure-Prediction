@@ -36,9 +36,17 @@ data visualization.
 ## 📁 Project Structure
 
 ├── lockheed_maintenance_analytics.ipynb  ← main notebook
+
+
 ├── aircraft.csv                          ← aircraft table
+
+
 ├── technicians.csv                       ← technicians table
+
+
 ├── maintenance_logs.csv                  ← main fact table
+
+
 └── README.md
 
 
@@ -92,11 +100,17 @@ data visualization.
 Built as a portfolio project targeting a Data Analyst Associate 
 role at Lockheed Martin. Covers every technical requirement 
 in the job description:
+
 ✅ Python scripting
+
 ✅ Data munging  
+
 ✅ Descriptive & inferential statistics
+
 ✅ AI/ML experience
+
 ✅ Data visualization
+
 
 
 
