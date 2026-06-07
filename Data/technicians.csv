@@ -1,0 +1,201 @@
+technician_id,department,certification_level,years_experience ,base,active,hourly_rate
+TECH-0001,AirFrame,Level 3,2,"Hill AFB, UT ",1,80
+TECH-0002,AirFrame,Lead Technician,19,Langley AFB VA,1,100
+TECH-0003,AirFrame,Level 1,10,Langley AFB VA,1,45
+TECH-0004,Avionics,Lead Technician,5,Nellis AFB NV,1,100
+TECH-0005,Life Support,Level 3,1,Eglin AFB FL,1,80
+TECH-0006,Electrical,Level 1,6,Langley AFB VA,1,45
+TECH-0007,Life Support,Level 2,17,Nellis AFB NV,1,60
+TECH-0008,Avionics,Level 3,1,"Hill AFB, UT ",1,80
+TECH-0009,Electrical,Level 2,16,Langley AFB VA,0,60
+TECH-0010,Life Support,Senior Technician,10,Nellis AFB NV,1,130
+TECH-0011,AirFrame,Level 2,11,Nellis AFB NV,1,60
+TECH-0012,Hydraulics,Level 3,18,Edwards AFB CA,1,80
+TECH-0013,Electrical,Level 2,6,"Hill AFB, UT ",1,60
+TECH-0014,Weapons Systems,Lead Technician,19,Edwards AFB CA,0,100
+TECH-0015,Weapons Systems,Level 3,5,Eglin AFB FL,1,80
+TECH-0016,Propulsion,Level 1,0,Edwards AFB CA,1,45
+TECH-0017,Electrical,Level 1,16,Edwards AFB CA,1,45
+TECH-0018,Hydraulics,Level 1,10,Langley AFB VA,1,45
+TECH-0019,Avionics,Level 1,17,Nellis AFB NV,1,45
+TECH-0020,AirFrame,Level 1,16,"Hill AFB, UT ",1,45
+TECH-0021,Propulsion,Level 3,6,Edwards AFB CA,1,80
+TECH-0022,Weapons Systems,Level 2,16,"Hill AFB, UT ",1,60
+TECH-0023,Avionics,Level 3,19,Edwards AFB CA,1,80
+TECH-0024,Avionics,Lead Technician,8,Eglin AFB FL,1,100
+TECH-0025,AirFrame,Level 3,16,Edwards AFB CA,1,80
+TECH-0026,Electrical,Level 3,19,Langley AFB VA,1,80
+TECH-0027,Weapons Systems,Level 3,7,Nellis AFB NV,1,80
+TECH-0028,Hydraulics,Level 2,16,Eglin AFB FL,1,60
+TECH-0029,Avionics,Level 1,6,Edwards AFB CA,1,45
+TECH-0030,AirFrame,Level 1,0,"Hill AFB, UT ",1,45
+TECH-0031,Hydraulics,Level 2,12,Eglin AFB FL,1,60
+TECH-0032,Electrical,Level 2,18,Eglin AFB FL,1,60
+TECH-0033,Weapons Systems,Level 1,18,Edwards AFB CA,1,45
+TECH-0034,Electrical,Lead Technician,16,Eglin AFB FL,1,100
+TECH-0035,Avionics,Level 3,12,"Hill AFB, UT ",1,80
+TECH-0036,Hydraulics,Level 1,15,Eglin AFB FL,1,45
+TECH-0037,Hydraulics,Level 2,7,"Hill AFB, UT ",1,60
+TECH-0038,Hydraulics,Level 1,18,Edwards AFB CA,1,45
+TECH-0039,Avionics,Level 2,17,Nellis AFB NV,1,60
+TECH-0040,Avionics,Level 2,0,Eglin AFB FL,1,60
+TECH-0041,Electrical,Lead Technician,13,Nellis AFB NV,1,100
+TECH-0042,Propulsion,Level 2,18,"Hill AFB, UT ",1,60
+TECH-0043,Electrical,Lead Technician,14,Eglin AFB FL,1,100
+TECH-0044,Weapons Systems,Senior Technician,17,Langley AFB VA,0,130
+TECH-0045,AirFrame,Level 1,1,Nellis AFB NV,1,45
+TECH-0046,Hydraulics,Level 3,16,Eglin AFB FL,1,80
+TECH-0047,Propulsion,Level 3,17,Nellis AFB NV,1,80
+TECH-0048,AirFrame,Level 2,5,Eglin AFB FL,1,60
+TECH-0049,Propulsion,Level 2,18,Edwards AFB CA,1,60
+TECH-0050,Life Support,Level 3,3,Nellis AFB NV,1,80
+TECH-0051,Electrical,Level 3,0,Langley AFB VA,1,80
+TECH-0052,Avionics,Lead Technician,7,Langley AFB VA,0,100
+TECH-0053,Hydraulics,Lead Technician,6,"Hill AFB, UT ",1,100
+TECH-0054,Electrical,Level 3,2,Eglin AFB FL,1,80
+TECH-0055,AirFrame,Senior Technician,9,Nellis AFB NV,1,130
+TECH-0056,Life Support,Level 3,9,"Hill AFB, UT ",1,80
+TECH-0057,Life Support,Level 3,18,Nellis AFB NV,1,80
+TECH-0058,Life Support,Level 3,13,Eglin AFB FL,1,80
+TECH-0059,AirFrame,Level 1,1,Langley AFB VA,1,45
+TECH-0060,AirFrame,Level 3,0,Edwards AFB CA,1,80
+TECH-0061,AirFrame,Level 2,17,Langley AFB VA,1,60
+TECH-0062,AirFrame,Level 2,6,"Hill AFB, UT ",1,60
+TECH-0063,Life Support,Lead Technician,7,Edwards AFB CA,1,100
+TECH-0064,Life Support,Level 2,0,"Hill AFB, UT ",1,60
+TECH-0065,Propulsion,Level 2,2,Eglin AFB FL,1,60
+TECH-0066,Electrical,Level 3,7,Edwards AFB CA,0,80
+TECH-0067,Hydraulics,Level 3,14,"Hill AFB, UT ",1,80
+TECH-0068,Avionics,Level 2,4,Eglin AFB FL,1,60
+TECH-0069,Life Support,Lead Technician,2,Langley AFB VA,1,100
+TECH-0070,Avionics,Level 3,18,Eglin AFB FL,1,80
+TECH-0071,Electrical,Level 1,0,Nellis AFB NV,1,45
+TECH-0072,Electrical,Level 1,14,Eglin AFB FL,1,45
+TECH-0073,Avionics,Level 3,7,Eglin AFB FL,1,80
+TECH-0074,Life Support,Level 2,1,Nellis AFB NV,1,60
+TECH-0075,Avionics,Level 1,2,"Hill AFB, UT ",1,45
+TECH-0076,Propulsion,Level 3,13,"Hill AFB, UT ",1,80
+TECH-0077,Weapons Systems,Level 2,13,Eglin AFB FL,0,60
+TECH-0078,Life Support,Level 2,10,Nellis AFB NV,1,60
+TECH-0079,Life Support,Level 2,15,Nellis AFB NV,1,60
+TECH-0080,Hydraulics,Level 3,3,Langley AFB VA,1,80
+TECH-0081,AirFrame,Level 2,19,"Hill AFB, UT ",1,60
+TECH-0082,Weapons Systems,Level 3,4,Edwards AFB CA,0,80
+TECH-0083,Electrical,Level 1,13,"Hill AFB, UT ",1,45
+TECH-0084,Life Support,Level 3,15,"Hill AFB, UT ",1,80
+TECH-0085,Avionics,Level 2,17,Langley AFB VA,1,60
+TECH-0086,Weapons Systems,Lead Technician,6,Edwards AFB CA,1,100
+TECH-0087,Hydraulics,Level 2,9,Langley AFB VA,1,60
+TECH-0088,Electrical,Senior Technician,6,Edwards AFB CA,1,130
+TECH-0089,AirFrame,Level 3,0,Eglin AFB FL,1,80
+TECH-0090,AirFrame,Level 1,18,Edwards AFB CA,1,45
+TECH-0091,Hydraulics,Lead Technician,15,Langley AFB VA,1,100
+TECH-0092,Hydraulics,Level 2,18,"Hill AFB, UT ",1,60
+TECH-0093,Avionics,Level 2,3,Edwards AFB CA,1,60
+TECH-0094,Life Support,Level 1,17,Edwards AFB CA,1,45
+TECH-0095,AirFrame,Level 2,1,Nellis AFB NV,1,60
+TECH-0096,Electrical,Level 2,0,"Hill AFB, UT ",1,60
+TECH-0097,Weapons Systems,Level 2,14,Eglin AFB FL,1,60
+TECH-0098,Electrical,Lead Technician,4,Langley AFB VA,1,100
+TECH-0099,Propulsion,Level 1,19,Eglin AFB FL,1,45
+TECH-0100,Propulsion,Level 2,10,"Hill AFB, UT ",1,60
+TECH-0101,Hydraulics,Level 2,9,Edwards AFB CA,1,60
+TECH-0102,Avionics,Level 1,1,Edwards AFB CA,1,45
+TECH-0103,Propulsion,Level 2,2,"Hill AFB, UT ",1,60
+TECH-0104,AirFrame,Level 3,11,Edwards AFB CA,1,80
+TECH-0105,Electrical,Level 2,19,Edwards AFB CA,0,60
+TECH-0106,Electrical,Level 1,4,Edwards AFB CA,1,45
+TECH-0107,Hydraulics,Level 2,4,Langley AFB VA,1,60
+TECH-0108,Life Support,Level 1,5,Langley AFB VA,1,45
+TECH-0109,Life Support,Lead Technician,8,Nellis AFB NV,1,100
+TECH-0110,Weapons Systems,Level 1,1,Eglin AFB FL,1,45
+TECH-0111,Hydraulics,Level 3,11,"Hill AFB, UT ",1,80
+TECH-0112,Weapons Systems,Senior Technician,2,"Hill AFB, UT ",1,130
+TECH-0113,Life Support,Level 2,19,"Hill AFB, UT ",1,60
+TECH-0114,Hydraulics,Senior Technician,11,Nellis AFB NV,1,130
+TECH-0115,Hydraulics,Level 1,16,Langley AFB VA,1,45
+TECH-0116,Hydraulics,Level 3,9,Nellis AFB NV,1,80
+TECH-0117,Life Support,Level 2,13,"Hill AFB, UT ",1,60
+TECH-0118,Weapons Systems,Level 3,16,Eglin AFB FL,1,80
+TECH-0119,Weapons Systems,Level 1,17,Edwards AFB CA,0,45
+TECH-0120,Hydraulics,Level 1,18,Langley AFB VA,1,45
+TECH-0121,Propulsion,Level 1,16,Langley AFB VA,1,45
+TECH-0122,Avionics,Level 3,13,Nellis AFB NV,1,80
+TECH-0123,Life Support,Lead Technician,8,Langley AFB VA,1,100
+TECH-0124,Avionics,Level 3,7,"Hill AFB, UT ",0,80
+TECH-0125,Avionics,Level 1,1,"Hill AFB, UT ",1,45
+TECH-0126,Weapons Systems,Lead Technician,12,Nellis AFB NV,1,100
+TECH-0127,Weapons Systems,Level 2,6,"Hill AFB, UT ",1,60
+TECH-0128,Propulsion,Level 2,8,Eglin AFB FL,0,60
+TECH-0129,Avionics,Level 1,10,Nellis AFB NV,1,45
+TECH-0130,Avionics,Level 3,13,Eglin AFB FL,1,80
+TECH-0131,Hydraulics,Level 1,3,Edwards AFB CA,1,45
+TECH-0132,Weapons Systems,Level 3,12,Eglin AFB FL,1,80
+TECH-0133,Avionics,Lead Technician,1,Edwards AFB CA,1,100
+TECH-0134,Electrical,Level 1,4,Edwards AFB CA,1,45
+TECH-0135,Propulsion,Level 2,10,Eglin AFB FL,1,60
+TECH-0136,Electrical,Level 1,5,Nellis AFB NV,1,45
+TECH-0137,Electrical,Level 2,17,"Hill AFB, UT ",1,60
+TECH-0138,Life Support,Level 2,9,"Hill AFB, UT ",1,60
+TECH-0139,Life Support,Level 2,3,Edwards AFB CA,1,60
+TECH-0140,Propulsion,Level 3,8,Edwards AFB CA,0,80
+TECH-0141,Electrical,Level 2,5,Nellis AFB NV,1,60
+TECH-0142,Avionics,Level 3,1,Langley AFB VA,1,80
+TECH-0143,Weapons Systems,Level 3,16,Eglin AFB FL,1,80
+TECH-0144,Propulsion,Level 3,4,Edwards AFB CA,1,80
+TECH-0145,Hydraulics,Level 3,5,"Hill AFB, UT ",1,80
+TECH-0146,Electrical,Level 3,11,Nellis AFB NV,1,80
+TECH-0147,Propulsion,Level 2,9,Eglin AFB FL,1,60
+TECH-0148,AirFrame,Level 2,5,Nellis AFB NV,0,60
+TECH-0149,AirFrame,Lead Technician,7,Eglin AFB FL,1,100
+TECH-0150,Life Support,Level 3,1,Eglin AFB FL,1,80
+TECH-0151,Weapons Systems,Level 1,11,Edwards AFB CA,1,45
+TECH-0152,Avionics,Level 2,12,Nellis AFB NV,1,60
+TECH-0153,Weapons Systems,Level 2,6,Nellis AFB NV,1,60
+TECH-0154,Weapons Systems,Senior Technician,9,"Hill AFB, UT ",0,130
+TECH-0155,Weapons Systems,Level 1,12,"Hill AFB, UT ",1,45
+TECH-0156,Weapons Systems,Level 1,16,Edwards AFB CA,1,45
+TECH-0157,Hydraulics,Level 2,13,Edwards AFB CA,1,60
+TECH-0158,Hydraulics,Level 2,1,Langley AFB VA,1,60
+TECH-0159,Life Support,Lead Technician,10,"Hill AFB, UT ",1,100
+TECH-0160,Propulsion,Level 1,0,Eglin AFB FL,1,45
+TECH-0161,AirFrame,Lead Technician,18,Nellis AFB NV,0,100
+TECH-0162,Weapons Systems,Level 1,3,Edwards AFB CA,0,45
+TECH-0163,Life Support,Lead Technician,18,Nellis AFB NV,1,100
+TECH-0164,Propulsion,Level 1,10,Nellis AFB NV,1,45
+TECH-0165,AirFrame,Level 1,7,Langley AFB VA,1,45
+TECH-0166,Electrical,Level 3,10,"Hill AFB, UT ",1,80
+TECH-0167,Avionics,Senior Technician,3,Edwards AFB CA,1,130
+TECH-0168,Hydraulics,Lead Technician,16,Nellis AFB NV,1,100
+TECH-0169,Electrical,Level 3,6,Edwards AFB CA,1,80
+TECH-0170,AirFrame,Lead Technician,7,Eglin AFB FL,1,100
+TECH-0171,Electrical,Level 1,2,Langley AFB VA,1,45
+TECH-0172,Avionics,Senior Technician,1,Eglin AFB FL,1,130
+TECH-0173,Life Support,Level 2,14,Edwards AFB CA,1,60
+TECH-0174,AirFrame,Level 3,4,Edwards AFB CA,1,80
+TECH-0175,Electrical,Lead Technician,0,"Hill AFB, UT ",1,100
+TECH-0176,Hydraulics,Level 3,3,Nellis AFB NV,1,80
+TECH-0177,Hydraulics,Level 2,14,Nellis AFB NV,1,60
+TECH-0178,Propulsion,Level 2,19,Eglin AFB FL,1,60
+TECH-0179,Electrical,Lead Technician,18,Langley AFB VA,1,100
+TECH-0180,Weapons Systems,Level 1,2,Nellis AFB NV,1,45
+TECH-0181,Electrical,Senior Technician,19,"Hill AFB, UT ",1,130
+TECH-0182,Life Support,Level 3,10,Eglin AFB FL,1,80
+TECH-0183,AirFrame,Level 1,16,Eglin AFB FL,1,45
+TECH-0184,AirFrame,Level 3,12,"Hill AFB, UT ",1,80
+TECH-0185,Life Support,Level 2,10,Langley AFB VA,1,60
+TECH-0186,Electrical,Level 3,1,"Hill AFB, UT ",1,80
+TECH-0187,Life Support,Level 3,8,Langley AFB VA,1,80
+TECH-0188,Avionics,Level 1,1,"Hill AFB, UT ",1,45
+TECH-0189,Life Support,Level 2,8,"Hill AFB, UT ",1,60
+TECH-0190,Hydraulics,Senior Technician,8,Edwards AFB CA,1,130
+TECH-0191,Life Support,Level 2,7,Eglin AFB FL,1,60
+TECH-0192,AirFrame,Level 3,16,"Hill AFB, UT ",1,80
+TECH-0193,Hydraulics,Level 2,0,"Hill AFB, UT ",1,60
+TECH-0194,AirFrame,Level 2,10,Nellis AFB NV,1,60
+TECH-0195,Propulsion,Level 2,7,Eglin AFB FL,1,60
+TECH-0196,Weapons Systems,Level 2,9,Nellis AFB NV,1,60
+TECH-0197,AirFrame,Level 1,6,Eglin AFB FL,1,45
+TECH-0198,Hydraulics,Level 3,2,Nellis AFB NV,1,80
+TECH-0199,Propulsion,Level 1,2,"Hill AFB, UT ",0,45
+TECH-0200,AirFrame,Level 1,17,"Hill AFB, UT ",1,45
