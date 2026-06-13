@@ -67,21 +67,21 @@ Date range: January 2021 to December 2024
 
 ## Project Structure
 
-lockheed_maintenance_analytics.ipynb  - main Python notebook
+lockheed_maintenance_analytics.ipynb           - main Python notebook
 
-aircraft.csv                          - aircraft table
+aircraft.csv                                   - aircraft table
 
-technicians.csv                       - technicians table
+technicians.csv                                - technicians table
 
-maintenance_logs_final.csv            - cleaned maintenance logs
+maintenance_logs_final.csv                     - cleaned maintenance logs
 
-analysis_queries.sql                  - all 10 SQL queries
+analysis_queries.sql                           - all 10 SQL queries
 
-lockheed_maintenance_dashboard.pbix   - Power BI dashboard
+lockheed_maintenance_dashboard.pbix            - Power BI dashboard
 
-dashboard_screenshot.png              - dashboard preview
+dashboard_screenshot.png                       - dashboard preview
 
-README.md                             - project documentation
+README.md                                      - project documentation
 
 ---
 
