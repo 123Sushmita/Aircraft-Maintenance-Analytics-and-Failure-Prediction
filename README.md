@@ -151,25 +151,30 @@ Tool: Python (pandas, matplotlib, seaborn)
 Business questions answered:
 
 Question 1: What is the average maintenance cost per quarter?
+
 Finding: Q1 consistently shows higher costs across all years,
 suggesting seasonal patterns from winter weather wear 
 or post-holiday budget resets.
 
 Question 2: Which maintenance type costs the most and least?
+
 Finding: Engine Inspection averages 16,557 dollars.
 Software Update averages 1,739 dollars.
 That is a 9.5 times difference.
 
 Question 3: Which aircraft type fails the most?
+
 Finding: B-1B has 32.6 percent failure rate.
 E-3 Sentry has 19.1 percent failure rate.
 B-1B requires priority maintenance attention.
 
 Question 4: Which base has the most activity?
+
 Finding: Edwards AFB handles 13,385 jobs - the most of any base.
 Hill AFB has the highest failure rate at 29 percent.
 
 Question 5: What predicts failures?
+
 Finding: Duration hours has the strongest correlation 
 with failures at 0.366.
 Longer jobs are moderately linked to failures.
