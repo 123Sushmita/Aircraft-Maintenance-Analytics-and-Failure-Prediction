@@ -11,8 +11,13 @@ The core business problem this project solves:
 before it actually happens?"
 
 The project covers the full data analytics pipeline:
-data generation, data cleaning, exploratory analysis, 
-machine learning, SQL querying, and business intelligence dashboards.
+
+- data generation, 
+- data cleaning,
+- exploratory analysis,
+-  machine learning,
+-  SQL querying,
+-  business intelligence dashboards.
 
 ---
 
