@@ -17,7 +17,7 @@ The project covers the full data analytics pipeline:
 - exploratory analysis,
 -  machine learning,
 -  SQL querying,
--  business intelligence dashboards.
+-  business intelligence dashboards
 
 ---
 
