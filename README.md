@@ -315,8 +315,13 @@ role at Lockheed Martin. Covers every technical requirement
 in the job description:
 
 Python scripting - covered in Phase 1, 2, 3, 4
+
 Data munging - covered in Phase 2
+
 Descriptive and inferential statistics - covered in Phase 3
+
 AI and ML experience - covered in Phase 4
+
 Data visualization - covered in Phase 3 and Phase 6
+
 SQL and database analysis - covered in Phase 5
