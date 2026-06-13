@@ -68,12 +68,19 @@ Date range: January 2021 to December 2024
 ## Project Structure
 
 lockheed_maintenance_analytics.ipynb  - main Python notebook
+
 aircraft.csv                          - aircraft table
+
 technicians.csv                       - technicians table
+
 maintenance_logs_final.csv            - cleaned maintenance logs
+
 analysis_queries.sql                  - all 10 SQL queries
+
 lockheed_maintenance_dashboard.pbix   - Power BI dashboard
+
 dashboard_screenshot.png              - dashboard preview
+
 README.md                             - project documentation
 
 ---
@@ -82,19 +89,21 @@ README.md                             - project documentation
 
 Tool: Python (numpy, pandas)
 
-Built a realistic dataset from scratch without using any 
-external data sources.
+Built a realistic dataset from scratch without using any external data sources.
 
 Key decisions made:
 - Cost ranges set per maintenance type based on real-world logic.
   Engine Inspection costs between 8000 and 25000 dollars.
   Software Update costs between 500 and 3000 dollars.
+  
 - Status weights set to reflect real operations.
   68 percent complete, 12 percent pending, 
   12 percent in progress, 8 percent failed.
+  
 - Failure tendency set per aircraft type.
   B-1B has highest tendency at 22 percent.
   E-3 Sentry has lowest tendency at 9 percent.
+  
 - Wear score calculated per aircraft combining 
   flight hours (60 percent weight) and age (40 percent weight).
   Flight hours matter more than age for physical wear.
