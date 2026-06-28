@@ -57,7 +57,7 @@ Three relational tables simulate enterprise-level maintenance systems:
 
 F-35A, F-35B, F-35C, C-130J, CH-53K, UH-60M, AH-64E, F-22A, B-1B, E-3 Sentry
 
-## 🏢 Bases
+## Bases
 
 Edwards AFB (CA), Eglin AFB (FL), Nellis AFB (NV), Langley AFB (VA), Hill AFB (UT)
 
@@ -86,7 +86,7 @@ Platform_ScreenRecorder/ → Demo video (NOT included in GitHub)
 
 ---
 
-## ⚙ Phase 1 - Data Generation
+## Phase 1 - Data Generation
 
 Built using Python (NumPy, Pandas)
 
@@ -105,7 +105,7 @@ Built using Python (NumPy, Pandas)
 
 ---
 
-## 🧹 Phase 2 - Data Cleaning
+## Phase 2 - Data Cleaning
 
 Real-world data issues were intentionally injected and fixed:
 
@@ -242,7 +242,7 @@ Flask + frontend dashboard development
 ## How to Run
 
 ### Clone Repository
-```bash
+
 git clone https://github.com/123Sushmita/Aircraft-Maintenance-Analytics-and-Failure-Prediction.git
 cd Aircraft-Maintenance-Analytics-and-Failure-Prediction
 
