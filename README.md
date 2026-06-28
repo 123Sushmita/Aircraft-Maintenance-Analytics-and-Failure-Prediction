@@ -244,6 +244,9 @@ Flask + frontend dashboard development
 ### Clone Repository
 
 git clone https://github.com/123Sushmita/Aircraft-Maintenance-Analytics-and-Failure-Prediction.git
+
+
+
 cd Aircraft-Maintenance-Analytics-and-Failure-Prediction
 
 End-to-End Flow:
