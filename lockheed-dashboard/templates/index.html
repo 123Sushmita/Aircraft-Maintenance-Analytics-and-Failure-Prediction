@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lockheed Dashboard</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<!-- IMPORTANT: Chart.js must be loaded -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<div class="header">
+  <span class="header-title">✈ LOCKHEED AEROSPACE SYSTEM <span class="header-version">V2</span></span>
+  <span class="header-status"><span class="led led-go"></span>LIVE</span>
+</div>
+
+<div class="layout">
+
+  <!-- LEFT -->
+  <div class="left panel">
+
+    <h3>📊 KPI</h3>
+    <div id="kpi"></div>
+
+    <h3>⚠ KRI</h3>
+    <div id="kri"></div>
+
+    <h3>✈ Aircraft Selector</h3>
+    <select id="aircraft" onchange="loadHistory(this.value)"></select>
+
+  </div>
+
+  <!-- CENTER -->
+  <div class="center panel">
+
+    <h3>📈 Fleet Overview</h3>
+    <div class="chart-box"><canvas id="c1"></canvas></div>
+
+    <h3>🔧 Maintenance Distribution</h3>
+    <div class="chart-box"><canvas id="c2"></canvas></div>
+
+    <h3>🚨 Status Risk Map</h3>
+    <div class="chart-box"><canvas id="c3"></canvas></div>
+
+    <h3>📜 Aircraft History</h3>
+    <table id="history"></table>
+
+  </div>
+
+  <!-- RIGHT -->
+  <div class="right panel">
+
+    <h3>🤖 AI CHAT</h3>
+
+    <div id="chat"></div>
+    <div id="suggestions" class="suggestions"></div>
+
+    <div class="chat-input-row">
+      <input id="q" placeholder="Ask about aircraft..." />
+      <button onclick="ask()">Send</button>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+
+</body>
+</html>
